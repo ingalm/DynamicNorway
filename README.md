@@ -27,6 +27,7 @@ Make sure all constants are configured correctly before running any part of the 
 1. A model is trained using [`training.py`](./training.py)
 2. Change detection and evaluation is done through [`built_probability.py`](./built_probability.py)
 
+---
 
 ### 👩‍💻 About the Authors
 
